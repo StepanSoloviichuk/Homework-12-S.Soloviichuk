@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакти</title>
+</head>
+<body>
+    <h1>Контакти</h1>
+    <p>Моє ім'я: Степан Соловійчук</p>
+    <p>Email: <a href="mailto:vapr.54@ukr.net">vapr.54@ukr.net</a></p>
+    <a href="../index.html">На головну</a>
+</body>
+</html>
